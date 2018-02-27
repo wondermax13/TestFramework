@@ -1,5 +1,5 @@
 # TestFramework
-Abstract generic exentendable class for efficient CRUD API tests implemented using reflection.
+Abstract generic extendable class for efficient CRUD API tests implemented using reflection.
 
 Sample usage
 
